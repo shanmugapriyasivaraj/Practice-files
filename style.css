@@ -2,6 +2,7 @@
   color: blue;
   font-size: 20px;
   background-color: gray;
+  border-radius: 10px;
 }
 .btn {
   height: 50px;
