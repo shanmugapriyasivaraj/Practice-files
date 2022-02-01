@@ -1,10 +1,11 @@
 .head {
   color: blue;
   font-size: 20px;
+  background-color: gray;
 }
-.btn{
-    height: 50px;
-    width: 100px;
-    color: gray;
-    background-color: red;
+.btn {
+  height: 50px;
+  width: 100px;
+  color: gray;
+  background-color: red;
 }
